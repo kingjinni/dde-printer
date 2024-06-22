@@ -1061,6 +1061,8 @@ void DPrintersShowWindow::printSettingClickSlot()
         dlg.exec();
         this->printerListWidgetItemChangedSlot(m_pPrinterListView->currentIndex());
     }
+
+    // ceshi sceshi 
 }
 
 void DPrintersShowWindow::printQueueClickSlot()
