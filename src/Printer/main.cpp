@@ -48,4 +48,6 @@ int main(int argc, char *argv[])
     g_printerApplication->stop();
 
     return iRet;
+
+ // testqr
 }
